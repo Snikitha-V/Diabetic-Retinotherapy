@@ -65,7 +65,7 @@ Ready to dive in? Follow these steps to set up your environment:
 ## 📊 Dataset
 We're using the **mBRSET Dataset**, a meticulously curated collection of retinal images for diabetic retinopathy research. It includes images categorized into 5 classes (0-4), representing varying severity levels.
 
-- **Source**: [Official mBRSET Repository or Website] (replace with actual link if available).
+- **Source**: [Kaggle mBRSET Dataset](https://www.kaggle.com/datasets/jaskiratsinghchopra/mbrset-data/discussion?sort=hotness)
 - **Structure**: Images are in JPEG format, organized by class in numbered folders.
 - **Preprocessing**: Images are resized to 224x224, normalized, and split into training/validation sets (80/20).
 - **Size**: Thousands of images—perfect for robust training!
