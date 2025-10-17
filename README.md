@@ -83,13 +83,10 @@ Validation accuracies from the latest run:
 Full results in `notebooks/results_summary.csv`.
 
 ## Visualization
-The project includes a horizontal bar chart comparing model accuracies, generated in the notebook using Matplotlib. This helps visualize performance differences.
+The project includes a horizontal bar chart comparing model accuracies, generated in the notebook using Matplotlib. The chart ranks models from highest to lowest accuracy, with bars colored in sky blue. For example, Logistic Regression appears at the top with ~77% accuracy, while Decision Tree is at the bottom with ~60%. Run the notebook to view the interactive chart.
 
 ## Saved Models
 Models saved in `notebooks/saved_models/` using Joblib for future use.
 
 ## Contributing
 Contributions welcome. Fork, make changes, submit PR.
-
-## License
-MIT License.
