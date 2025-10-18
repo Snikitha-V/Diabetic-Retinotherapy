@@ -1,6 +1,6 @@
 # Diabetic Retinopathy Detection
 
-Welcome to the Diabetic Retinopathy Detection project. This project uses machine learning to detect diabetic retinopathy from retinal images, aiming to assist in early diagnosis and prevent vision loss.
+This project uses machine learning to detect diabetic retinopathy from retinal images, aiming to assist in early diagnosis and prevent vision loss.
 
 The project combines deep learning for feature extraction with traditional machine learning models to classify retinal images into severity levels.
 
@@ -89,4 +89,5 @@ The project includes a horizontal bar chart comparing model accuracies, generate
 Models saved in `notebooks/saved_models/` using Joblib for future use.
 
 ## Contributing
+
 Contributions welcome. Fork, make changes, submit PR.
